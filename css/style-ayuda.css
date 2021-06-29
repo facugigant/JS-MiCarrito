@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+main{
+background: black;
+  height: 800px;
+  max-height: 100%;
+}
+
+.card{
+
+  margin: auto;
+  width: 60vw;
+  text-align: center;
+}
+
+.preguntas-cards{
+  margin-top: 5%;
+
+}
+
+.card-link:hover{
+  color: blue !important;
+}

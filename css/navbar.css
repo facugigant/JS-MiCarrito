@@ -1,0 +1,82 @@
+#CrearUsuario {
+  font-size: 15px;
+}
+#CrearUsuario:hover {
+  color: Blue !important;
+}
+#cerrarSesiones {
+  font-size: 15px;
+}
+#cerrarSesiones:hover {
+  color: red !important;
+}
+
+#slash {
+  font-size: 15px;
+}
+#cajasesiones {
+  text-align: center;
+  border: 1px solid white;
+  position: relative;
+  left: -50px;
+  width: 120%;
+}
+.usuarioLogged {
+  position: absolute;
+  font-size: 10px;
+  margin-top: -20px;
+}
+
+/* Barra REdes Sociales */
+/* Barra social*/
+html {
+  font-size: 16px;
+}
+
+.social-bar {
+  position: fixed;
+  right: 0;
+  top: 35%;
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  z-index: 100;
+}
+
+.icon {
+  color: white;
+  text-decoration: none;
+  padding: 0.7rem;
+  display: flex;
+  transition: all 0.5s;
+}
+
+.icon-facebook {
+  background: #2e406e;
+}
+
+.icon-twitter {
+  background: #339dc5;
+}
+
+.icon-youtube {
+  background: #e83028;
+}
+
+.icon-instagram {
+  background: #3f60a5;
+}
+
+.icon:first-child {
+  border-radius: 1rem 0 0 0;
+}
+
+.icon:last-child {
+  border-radius: 0 0 0 1rem;
+}
+
+.icon:hover {
+  padding-right: 3rem;
+  border-radius: 1rem 0 0 1rem;
+}

@@ -1,0 +1,39 @@
+[{
+        "id": 1,
+        "marca": "ASUS",
+        "producto": "Motherboard",
+        "precio": 200,
+        "categoria": "Motherboard",
+        "tipo": "primary",
+        "cantidad": 1
+
+    },
+    {
+        "id": 2,
+        "marca": "INTEL",
+        "producto": "Procesador",
+        "precio": 500,
+        "categoria": "Procesador",
+        "tipo": "primary",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "marca": "G.SKILL",
+        "producto": "Memorias RAM",
+        "precio": 150,
+        "categoria": "Memorias RAM",
+        "tipo": "warning",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "marca": "ASUS",
+        "producto": "Motherboards",
+        "precio": 250,
+        "categoria": "Placas De Video",
+        "tipo": "warning",
+        "cantidad": 1
+    }
+  
+]
